@@ -1,0 +1,52 @@
+2026-05-20 15:42:49 INFO  TC_001_Identify_Hospitals:37 -
+			---------- Step 1: Searching for Hospitals ----------
+2026-05-20 15:42:54 INFO  TC_001_Identify_Hospitals:45 -
+			Location selected: Bangalore
+2026-05-20 15:43:04 INFO  TC_001_Identify_Hospitals:48 -
+			Hospital search initiated for: Hospital
+2026-05-20 15:43:04 INFO  TC_001_Identify_Hospitals:58 -
+			---------- Step 2: Collecting Hospital Links ----------
+2026-05-20 15:43:05 INFO  TC_001_Identify_Hospitals:69 -
+			Found 10 hospital links.
+2026-05-20 15:43:05 INFO  TC_001_Identify_Hospitals:79 -
+			---------- Step 3: Validating Hospital Details ----------
+2026-05-20 15:43:08 INFO  TC_001_Identify_Hospitals:101 -
+			Processed: https://www.practo.com/bangalore/hospital/columbia-asia-hospital1-whitefield?referrer=hospital_listing
+2026-05-20 15:43:16 INFO  TC_001_Identify_Hospitals:101 -
+			Processed: https://www.practo.com/bangalore/hospital/manipal-hospital-yeshwanthpur?referrer=hospital_listing
+2026-05-20 15:43:43 INFO  TC_001_Identify_Hospitals:101 -
+			Processed: https://www.practo.com/bangalore/hospital/koshys-hospital-ramamurthy-nagar-2-1?referrer=hospital_listing
+2026-05-20 15:43:51 INFO  TC_001_Identify_Hospitals:101 -
+			Processed: https://www.practo.com/bangalore/hospital/motherhood-hospital-indiranagar?referrer=hospital_listing
+2026-05-20 15:43:59 INFO  TC_001_Identify_Hospitals:101 -
+			Processed: https://www.practo.com/bangalore/hospital/motherhood-hospital-whitefield-3?referrer=hospital_listing
+2026-05-20 15:44:10 INFO  TC_001_Identify_Hospitals:101 -
+			Processed: https://www.practo.com/bangalore/hospital/sagar-hospitals-banashankari?referrer=hospital_listing
+2026-05-20 15:44:17 INFO  TC_001_Identify_Hospitals:101 -
+			Processed: https://www.practo.com/bangalore/hospital/apollo-cradle-4-marathahalli?referrer=hospital_listing
+2026-05-20 15:44:40 INFO  TC_001_Identify_Hospitals:101 -
+			Processed: https://www.practo.com/bangalore/hospital/columbia-asia-hospital-hebbala-hebbal?referrer=hospital_listing
+2026-05-20 15:44:56 INFO  TC_001_Identify_Hospitals:101 -
+			Processed: https://www.practo.com/bangalore/hospital/dr-malathi-manipal-hospital-jayanagar?referrer=hospital_listing
+2026-05-20 15:45:03 INFO  TC_001_Identify_Hospitals:101 -
+			Processed: https://www.practo.com/bangalore/hospital/cloudnine-hospital-old-airport-road?referrer=hospital_listing
+2026-05-20 15:45:10 INFO  TC_001_Identify_Hospitals:104 -
+			---------- Identifying Hospital Test completed ----------
+2026-05-20 15:45:27 INFO  TC_003_CorporateWellnessTest:24 -
+			----------Corporate Wellness Test starts ----------
+2026-05-20 15:45:27 INFO  TC_003_CorporateWellnessTest:39 -
+			Giving inputs for each field
+2026-05-20 15:45:32 INFO  TC_003_CorporateWellnessTest:49 -
+			Selecting the dropdown options
+2026-05-20 15:47:36 INFO  TC_003_CorporateWellnessTest:58 -
+			CAPTCHA is validated
+2026-05-20 15:47:36 INFO  TC_003_CorporateWellnessTest:62 -
+			Printed the alert message in console
+2026-05-20 15:47:39 INFO  TC_003_CorporateWellnessTest:65 -
+			Redirected to the previous page
+2026-05-20 15:47:56 INFO  TC_002_DiagnosticTest:22 -
+			----------Diagnostic Test starts ----------
+2026-05-20 15:47:56 INFO  TC_002_DiagnosticTest:26 -
+			Clicking diagnostic page
+2026-05-20 15:47:56 INFO  TC_002_DiagnosticTest:28 -
+			Printing Top Cities in Diagnostic Page
